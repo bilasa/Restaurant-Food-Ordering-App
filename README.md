@@ -1,4 +1,4 @@
-# ecse428-potatopeeps
-Group project for ECSE 428. Our team name is Potato Peeps.
+# In-Restaurant Food Ordering App
+This app was created as part of a group project for the McGill class ECSE428: Software Engineering Practice. The project was decided upon by ourselves and focused on the agile development practice for carrying out the development lifecycle.
 
-Our project is to create an online food ordering system which provides a platform for the customers to order foods after they have arrived at the restaurant. This system will work on a web browser. Knowledge of the restaurant’s food menu, inventory records and table number will be used.
+The created project is a web-app that serves as a food ordering system for customers that are within the restaurant. Inspiration was drawn from all-you-can-eat sushi restaurants that utilize similar apps on tablets at the tables. From our platform the customer can view the menu, add items to a cart and send the order at any time. In addition, they can make a staff request that alerts their server to come to their table or even a bill request when they are ready to pay. A staff view shows all the tables and their current running orders and requests, allowing them to check them off and change the statuses of items that have been ordered. Lastly, a manager view allows the restaurant managers to create and edit their own menus to be displayed.
